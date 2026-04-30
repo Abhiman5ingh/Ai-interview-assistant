@@ -28,7 +28,6 @@ An AI-powered platform that generates structured interview preparation reports u
 ```
 Backend/
 Frontend/
-extra/
 ```
 
 ---
